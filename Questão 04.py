@@ -1,4 +1,4 @@
-#Solução esta em Python.
+#  Solução esta em Python.
 
 #Criando um dicionario como a Região e o valor arrecadado
 faturamento_mensal = { 
